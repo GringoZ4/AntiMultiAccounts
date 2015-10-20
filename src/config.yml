@@ -1,0 +1,36 @@
+#Creador Fernando
+Messages:
+    TitleApple: '&6&kii&e&lAppleMega&6&kii'
+    broadcast: '&6&lThe user %p% to eating a  AppleMega'
+    crafting: '&6&lYour crafting one: '
+    giveapplemsg: '& Your received %n% apple'
+    
+    
+
+Other:
+    lightning: true
+    broadcast: true
+    joinapple: true
+    nopermission: '&cYou do not have permission'
+    particles: true
+  
+Lores:
+- '&c&LFUERZA II'
+- '&b&lREGENERACIO II'
+- '&a&lVELOCIDAD II'
+- '&f[&3Evento&f] '
+- '&3Valida hasta &b30/05/15 '
+effects:
+- INCREASE_DAMAGE/4800#1
+- REGENERATION/600#2
+- SPEED/4800#1
+craftingitem:
+    Materiala: 57
+    Materialb: 260
+applemegacount:
+  countapple: 0
+  playerscraft:
+            pexample: 1
+  playerseat:
+            pexample: 1
+      
